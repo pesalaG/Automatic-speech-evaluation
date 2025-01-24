@@ -1,4 +1,4 @@
-# Pronunciation Assessment Module
+# Automatic Speech Evaluation Module
 
 This project provides an automatic pronunciation assessment module that evaluates the accuracy of spoken language by comparing user speech with a pronunciation model. It uses speech-to-text and natural language processing techniques to score pronunciation quality.
 
